@@ -3,9 +3,9 @@ Welcome to the Machine Learning Study Jam repository! This repository serves as 
 In this repository, you will find:
 
 - Slides: Presentation slides covering various Machine Learning topics and concepts.
-- Interactive Notebooks: Interactive notebooks for hands-on learning, including code snippets, exercises, and explanations.
+- [Interactive Notebooks](https://github.com/mwanyumba7/LearnMLTogether/tree/main/Notebooks): Interactive notebooks for hands-on learning, including code snippets, exercises, and explanations.
 - Code Examples: Real-world code examples illustrating different Machine Learning algorithms, techniques, and applications.
-- Datasets: Curated datasets for practicing Machine Learning tasks and experimenting with different algorithms.
+- [Datasets](https://github.com/mwanyumba7/LearnMLTogether/tree/main/Datasets): Curated datasets for practicing Machine Learning tasks and experimenting with different algorithms.
 - Additional Resources: Recommended books, tutorials, online courses, and research papers to deepen your knowledge.
 - Contributions: A space for participants to contribute their own code, resources, and ideas to enrich the learning experience for everyone.
 
